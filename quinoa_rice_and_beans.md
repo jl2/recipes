@@ -17,3 +17,4 @@ Directions
 * Add quinoa, rice, water, salt, olive oil, herbs de provence, paprika and cardmom to a medium sauce pan and bring to a boil.
 * Reduce to a simmer, stir well, and cover for 40 minutes until soft.
 * Add rinsed kidney and garbanzo bean
+ 
