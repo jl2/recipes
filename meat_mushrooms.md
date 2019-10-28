@@ -14,6 +14,7 @@ Ingredients
 * 3 teaspoons ground cumin
 * 14 oz can of kidney beans, rinsed
 * 14 oz can of garbanzo beans, rinsed
+* 1 teaspoon flour, optional
 
 Directions
 ================
@@ -25,5 +26,6 @@ Directions
 * Cover and cook for 15 minutes, stirring occassionally
 * Remove cover and add kidney and garbanzo beans,
 * Cook for 15 minutes, stirring occassionally
+* Add flour to thicken
 * Serve with rice
 
