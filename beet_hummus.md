@@ -14,7 +14,7 @@ Ingredients
 
 Instructions
 ====================
-1. See roasting instructions here.
+1. See roasting instructions [here](https://www.thespruceeats.com/how-to-roast-beets-2216959)
 2. Once your beet is cooled and peeled, quarter it and place it in your food processor. Blend until only small bits remain.
 3. Add remaining ingredients except for olive oil and blend until smooth.
 4. Drizzle in olive oil as the hummus is mixing.
