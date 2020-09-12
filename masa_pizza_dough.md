@@ -1,3 +1,7 @@
+Warning
+=======================
+This recipe is *terrible*.  It's here for future reference, because I tried it, not because it's good.
+
 Masa Pizza
 =======================
 Made up pizza dough recipe.
