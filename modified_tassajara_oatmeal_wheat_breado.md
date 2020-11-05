@@ -3,8 +3,8 @@ Oat Wheat Bread
 
 Ingredients
 ====================
-I
-=
+I (before first rise)
+---------------------
 * 3 1/4 Cups lukewarm water
 * 1 to 1 1/2 tablespoons dry yeast
 * 1/4 cup honey
@@ -12,8 +12,8 @@ I
 * 2 cups unbleached flour (240 g)
 * 2 cups whole wheat flour (226 g)
 
-II
-==
+II (after first rise)
+---------------------
 * 4 teaspoos salt
 * 1/4 cup olive oil
 * 2 cups rolled oats
